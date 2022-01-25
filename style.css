@@ -313,7 +313,8 @@ h4{
     -ms-transition: all 300ms ease;
     -o-transition: all 300ms ease;
   }
-  
+
+    
   .main-menu > ul li.menu-item-has-children .dropdown-btn {
     position: absolute;
     right: 10px;
