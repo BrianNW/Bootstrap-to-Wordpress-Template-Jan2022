@@ -569,3 +569,11 @@ h4{
 .title-banner .sub-title {
     color: #f2c94c;
 }
+
+
+/* Subscribe bar */
+
+.subscribe-bar {
+  background-color: #111;
+  padding: 30px 0 10px;
+}
