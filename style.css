@@ -84,7 +84,7 @@ h4{
 
 .btn.btn-primary {
   color: #111;
-  background-color: #f2c94c;
+  background-color: var(--color-yellow);
   padding: 20px 50px;
 }
 
@@ -697,4 +697,34 @@ article.post {
   padding: 100px 0;
   /* starting from, going to parameters */
   background: linear-gradient(100deg, var(--color-pink) 0%, #bb6bd9 100%);
+}
+
+.footer-calltoaction .sub-title {
+  color: var(--color-yellow);
+}
+
+.footer-calltoaction h2 {
+  color: #f2f2f2;
+  margin-bottom: 1rem;
+}
+
+.footer-calltoaction p {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.footer-calltoaction btn {
+  margin-top: 2rem;
+}
+
+.copyright {
+  padding: 50px 0;
+}
+
+.copyright p {
+  color: rgba(0, 0, 0, 0.2);
+  margin-bottom: 0;
+  font-weight: 500;
 }
