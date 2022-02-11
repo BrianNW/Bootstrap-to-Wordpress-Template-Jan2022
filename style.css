@@ -49,7 +49,7 @@ h1 {
 
 h2 {
     color: var(--color-dark);
-    font-size: 2.5rem;
+    font-size: 2.8rem;
     margin-bottom: 1rem;
     transition: var(--transition-dur);
 }
@@ -727,4 +727,13 @@ article.post {
   color: rgba(0, 0, 0, 0.2);
   margin-bottom: 0;
   font-weight: 500;
+}
+
+/* Elementor widgets styles */
+
+.title-wrapper .sub-title {
+  font-size: 0.95rem;
+  font-weight: 700;
+  letter-spacing: 0.04rem;
+  color: var(--color-pink);
 }
