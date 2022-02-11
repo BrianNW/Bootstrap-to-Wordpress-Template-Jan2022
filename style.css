@@ -737,3 +737,7 @@ article.post {
   letter-spacing: 0.04rem;
   color: var(--color-pink);
 }
+
+.sub-title {
+  margin: 0;
+}
